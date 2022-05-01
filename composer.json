@@ -1,6 +1,7 @@
 {
     "name": "jcombee/reduced",
     "description": "A php library for managing state.",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "JCombee\\Reduced\\": "src/"
