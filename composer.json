@@ -1,0 +1,27 @@
+{
+    "name": "jcombee/reduced",
+    "description": "A php library for managing state.",
+    "autoload": {
+        "psr-4": {
+            "JCombee\\Reduced\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "JCombee\\Reduced\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jerke Combee",
+            "email": "jerke1988@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    },
+    "require-dev": {
+        "pestphp/pest": "^1.21",
+        "pestphp/pest-plugin-mock": "^1.0"
+    }
+}
