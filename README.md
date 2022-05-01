@@ -2,12 +2,12 @@ Reduced
 =======
 A state management library for PHP.
 
-# Content
+## Content
 
 - [Instalation](#instalation)
 - [How to use](#how-to-use)
 
-# Instalation
+## Instalation
 
 ```bash
 
@@ -15,7 +15,7 @@ composer require jcombee/reduced
 
 ```
 
-# How to use
+## How to use
 
 This example bellow uses the classes in: [tests/Example](tests/Example).
 
